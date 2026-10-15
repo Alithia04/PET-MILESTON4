@@ -3,7 +3,8 @@ This project is part of PET361 Milestone 4 assignment. It demonstrates a locally
 
 The project focuses on login functionality, database management and intoductory security demonstrations invologing SQL injection and Cross-Site Scripting (XSS), using fictional client data. 
 
-## NB: This project is intended for local educational use only. It must not be deployed publicly or used with real banking credentials. 
+# NB: This project is intended for local educational use only. It must not be deployed publicly or used with real banking credentials. 
+
 # Objectives
 * Develop an offline sign-in interface inspired by AltoroMutal.
 * Create a database containing dive fictional client records.
